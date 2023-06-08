@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Speech GPT - Extended version of chat GPT can use voice command to send GPT 3.5 model (V4)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
